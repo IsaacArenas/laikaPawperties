@@ -13,12 +13,15 @@ lets said that  you have a parent  object
   "fur":"short"
   "double_coated":true
 }
+
 ´´´
+
 
 and a Childrent Object:
 ### Object Laika
 ---
 ´´´json 
+
 {
   "id":"Doggo",
   "parent_id":Null,
@@ -26,6 +29,7 @@ and a Childrent Object:
   "fur":"short"
   "double_coated":true
 }
+
 ´´´
 
 
