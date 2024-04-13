@@ -5,7 +5,7 @@ lets said that  you have a parent  object
 
 ### Object Doggo:
 ---
-´´´json 
+```son 
 {
   "id":"doggo",
   "parent_id":null,
@@ -14,13 +14,13 @@ lets said that  you have a parent  object
   "double_coated":true
 }
 
-´´´
+```
 
 
 and a Childrent Object:
 ### Object Laika
 ---
-´´´json 
+```json 
 
 {
   "id":"laika",
@@ -30,7 +30,7 @@ and a Childrent Object:
   "double_coated":true
 }
 
-´´´
+```
 
 
 
