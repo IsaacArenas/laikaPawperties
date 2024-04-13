@@ -7,8 +7,8 @@ lets said that  you have a parent  object
 ---
 ´´´json 
 {
-  "id":"Doggo",
-  "parent_id":Null,
+  "id":"doggo",
+  "parent_id":null,
   "legs":4,
   "fur":"short"
   "double_coated":true
@@ -23,8 +23,8 @@ and a Childrent Object:
 ´´´json 
 
 {
-  "id":"Doggo",
-  "parent_id":Null,
+  "id":"laika",
+  "parent_id":doggo,
   "legs":4,
   "fur":"short"
   "double_coated":true
